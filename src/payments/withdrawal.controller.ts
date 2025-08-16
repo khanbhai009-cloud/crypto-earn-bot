@@ -1,3 +1,4 @@
+import { WithdrawalService } from './withdrawal.service';
 export class WithdrawalController {
   constructor(private withdrawalService: WithdrawalService) {}
 
