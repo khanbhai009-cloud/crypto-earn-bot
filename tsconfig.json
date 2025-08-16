@@ -1,12 +1,10 @@
 {
   "compilerOptions": {
-    "jsx": "react",
-    "esModuleInterop": true,
-    "allowJs": true,
+    "jsx": "react",          // React ke liye JSX enable
     "moduleResolution": "node",
     "target": "ES6",
     "module": "commonjs",
-    "strict": true,
-    "skipLibCheck": true
+    "esModuleInterop": true,
+    "strict": true
   }
 }
