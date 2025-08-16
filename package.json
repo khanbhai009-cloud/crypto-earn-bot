@@ -1,10 +1,20 @@
 {
-  "name": "crypto-earn-bot",
+  "name": "admin-dashboard",
   "version": "1.0.0",
-  "main": "src/main.ts",
+  "private": true,
   "scripts": {
-    "start": "node dist/main.js",
-    "start:dev": "nest start --watch"
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
   },
-  "dependencies": {}
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2",
+    "@types/react": "^18.2.14",
+    "@types/react-dom": "^18.2.7"
+  }
 }
