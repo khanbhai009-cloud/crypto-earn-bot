@@ -1,0 +1,10 @@
+{
+  "name": "crypto-earn-bot",
+  "version": "1.0.0",
+  "main": "src/main.ts",
+  "scripts": {
+    "start": "node dist/main.js",
+    "start:dev": "nest start --watch"
+  },
+  "dependencies": {}
+}
