@@ -20,15 +20,4 @@
     "@types/react": "^18.2.14",
     "@types/node": "^20.6.0"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/khanbhai009-cloud/crypto-earn-bot.g>
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/khanbhai009-cloud/crypto-earn-bot/issue>
-  },
-  "homepage": "https://github.com/khanbhai009-cloud/crypto-earn-bot#re>
-}
+ 
