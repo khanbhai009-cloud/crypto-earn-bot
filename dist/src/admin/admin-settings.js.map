@@ -1,0 +1,1 @@
+{"version":3,"file":"admin-settings.js","sourceRoot":"","sources":["../../../src/admin/admin-settings.ts"],"names":[],"mappings":";;;AAAA,MAAa,aAAa;IAA1B;QACE,oBAAe,GAAW,GAAG,CAAC;IAShC,CAAC;IAPC,kBAAkB,CAAC,KAAa;QAC9B,IAAI,CAAC,eAAe,GAAG,KAAK,CAAC;IAC/B,CAAC;IAED,kBAAkB;QAChB,OAAO,IAAI,CAAC,eAAe,CAAC;IAC9B,CAAC;CACF;AAVD,sCAUC"}
